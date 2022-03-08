@@ -1,1 +1,3 @@
 # card_transition
+
+This is a small project I did as part of the 50 Projects in 50 days course on Udemy. It consists of an html file, a css file, and a javascript file. The html is very simple, just some divs with h1 captions and links to images from unsplash enclosed in a container. The css adds rounded cards and a transition using a class called active to allow for resizing of the cards. The javascript is simple, just two functions. One loops through all the cards and adds the "active" class to any that are clicked, and the other removes it so that only one card is active and expanded at once. It was a fun little project and my first foray into making transitions happen with javascript.
